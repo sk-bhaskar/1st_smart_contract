@@ -1,4 +1,4 @@
-# 1st_smart_contract
+# Interaction Logger
 
 Overview
 
